@@ -23,7 +23,7 @@ The table below gives an overview of how the automatizations are operating. Obse
 <tr><td>1 Playvox</td></tr>
 <tr><td>1 Locus</td></tr>
 <tr><td>2 Extranet </td></tr>
-<tr><td rowspan="8">20 Report generation - ETL</td><td>APIs data to CSV </td></tr>
+<tr><td rowspan="8">+20 Report generation - ETL</td><td>APIs data to CSV </td></tr>
 <tr><td>CSV to GSheets</td></tr>
 <tr><td>CSVs to CSV (data manipulation)</td></tr>
 <tr><td>CSVs to Blob Container</td></tr>
