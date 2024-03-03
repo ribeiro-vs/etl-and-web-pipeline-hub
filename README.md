@@ -19,18 +19,18 @@ The table below gives an overview of how the automatizations are operating. Obse
 <table><tr><th><b>Project</b></th><th><b>Concept</b></th><th><b>Quantity of processes</b></th><th><b>Type</b></th></tr>
 <tr><td rowspan="14">guardian</td><td rowspan="14">The project contains automatization and etl routines that supports the data vizualization tools and workflows of teams from both MX and BR and the sharing of data for Justo partners</td><td rowspan="6">+96 Report extrations</td><td>+59 Metabase</td></tr>
 <tr><td>+25 Google Sheets</td></tr>
-<tr><td>11 Zendesk</td></tr>
+<tr><td>+11 Zendesk</td></tr>
 <tr><td>1 Playvox</td></tr>
 <tr><td>1 Locus</td></tr>
 <tr><td>2 Extranet </td></tr>
-<tr><td rowspan="8">20 Report generation - ETL</td><td>2 APIs data to CSV </td></tr>
-<tr><td>12 CSV to GSheets</td></tr>
-<tr><td>2 CSVs to CSV (data manipulation)</td></tr>
-<tr><td>2 CSVs to Blob Container</td></tr>
-<tr><td>2 Snowflake to GSheets</td></tr>
-<tr><td>1 Snowflake to Blob Container </td></tr>
-<tr><td>1 CSV + Dashboard to CSV (manual execution)</td></tr>
-<tr><td>1 Snowflake to SFTP </td></tr> 
+<tr><td rowspan="8">20 Report generation - ETL</td><td>APIs data to CSV </td></tr>
+<tr><td>CSV to GSheets</td></tr>
+<tr><td>CSVs to CSV (data manipulation)</td></tr>
+<tr><td>CSVs to Blob Container</td></tr>
+<tr><td>Snowflake to GSheets</td></tr>
+<tr><td>Snowflake to Blob Container </td></tr>
+<tr><td>Snowflake to SFTP </td></tr> 
+<tr><td>Snowflake to API Endpoints </td></tr> 
 </table>
 
 ## **Report Extractions List**
