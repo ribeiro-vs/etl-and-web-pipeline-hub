@@ -1,6 +1,6 @@
-# guardian
+# Guardian
 
-This is a project focused on process automatization from web data sources. It carries ETL routines within, and integrations with external tools and platforms.
+Guardian is a project focused on process automatization from web data sources. It carries ETL routines within, and integrations with external tools and platforms.
 
 It is based on OOP so that it can offer a simpler logic to it's code.
 
