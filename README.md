@@ -1,6 +1,6 @@
-# GUARDIAN
+# Data Automation & Integration Framework
 
-Guardian is a project I personally designed and developed, focused on process automatization from web data sources. It carries ETL routines within, and integrations with external tools and platforms.
+*guardian* is a project I personally designed and developed, focused on process automatization from web data sources. It carries ETL routines within, and integrations with external tools and platforms.
 
 It is based on OOP so that it can offer a simpler logic to it's code.
 
